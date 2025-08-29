@@ -21,3 +21,7 @@ Once the data is received, the next step is processing it for visualization. Pyt
 This task not only strengthens programming skills but also develops the ability to work with real-world data. By integrating APIs, one can access live information from various domains, which is valuable for creating dynamic applications. Visualizing the data helps in interpreting the information effectively, making it easier to present and analyze. Furthermore, this task emphasizes the importance of handling errors, such as network issues or invalid responses, which is a critical aspect of working with APIs in professional projects.
 
 In conclusion, Task 1 on API integration and data visualization provides a comprehensive learning experience. It combines the skills of retrieving data from external sources using Python with the ability to represent that data visually using graphs and charts. Completing this task equips interns with practical knowledge of working with APIs, processing JSON data, and creating meaningful visualizations, which are essential skills in data analysis, software development, and many AI-related fields. This foundational experience prepares interns for more advanced projects involving data-driven decision-making and real-time application development.
+
+*OUTPUT*:
+
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/0f5249f5-b818-489d-8d72-91ae5d75ba84" />
