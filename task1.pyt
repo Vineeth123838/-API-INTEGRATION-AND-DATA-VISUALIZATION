@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Paste your OpenWeatherMap API key here 👇
 API_KEY = "e5678455ab5df645ec243ceb3e5dc15c"
-CITY = "Hyderabad"
+CITY = "khammam"
 url = f"http://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric"
 
 # Fetch data
@@ -23,4 +23,5 @@ plt.xlabel("Date & Time")
 plt.ylabel("Temperature (°C)")
 plt.tight_layout()
 plt.show()
+
 
